@@ -1,0 +1,1 @@
+{"arch": "arch.mlp_w0", "session_dir": null, "data": "./fvs_act_cheat/", "argv": ["crossval.py", "--data", "./fvs_act_cheat/", "--arch", "arch.mlp_w0"]}

@@ -1,0 +1,1 @@
+{"arch": "arch.mlp_w0", "nh": 24, "nh2": 16, "nh3": 225, "nlayers": 8, "nlayers2": 1, "nlayers3": 6, "margin": 6.140386221111806, "epochs": 244, "lr": 0.028785134266831634, "decay": 4.180122397107364e-05, "batch": 3}
